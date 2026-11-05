@@ -108,9 +108,9 @@
     ]
   },
   {
-    "station_id": "rixensart_parking",
+    "station_id": "rixensart_piscine",
     "operator": "wibee",
-    "name": "Station Rixensart - Parking",
+    "name": "Station Rixensart - piscine",
     "lat": 50.711722,
     "lon": 4.538583,
     "address": "Parking communal",
