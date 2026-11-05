@@ -1,0 +1,542 @@
+[
+  {
+    "station_id": "bastogne_patton",
+    "operator": "wibee",
+    "name": "Station Place du Général Patton",
+    "lat": 49.998342,
+    "lon": 5.715372,
+    "address": "Place du Général Patton",
+    "post_code": "6600",
+    "capacity": 2,
+    "vehicles": [
+      {
+        "capacity": 2,
+        "availability": 2,
+        "vehicleType": {
+          "vehicle_type_id": "skoda_fabia",
+          "form_factor": "car",
+          "propulsion_type": "combustion",
+          "vehicle_accessories": [
+            "manual"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Skoda",
+          "model": "Fabia",
+          "max_range_meters": 500000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "nivelles_gare",
+    "operator": "wibee",
+    "name": "Station Nivelles – Gare",
+    "lat": 50.601194,
+    "lon": 4.334972,
+    "address": "Gare de Nivelles",
+    "post_code": "1400",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_golf",
+          "form_factor": "car",
+          "propulsion_type": "combustion",
+          "vehicle_accessories": [
+            "manual"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "Golf",
+          "max_range_meters": 500000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "lasne_jeu_de_balles",
+    "operator": "wibee",
+    "name": "Station Lasne - Place du Jeu de Balles",
+    "lat": 50.686278,
+    "lon": 4.482528,
+    "address": "Place du Jeu de Balles",
+    "post_code": "1380",
+    "capacity": 2,
+    "vehicles": [
+      {
+        "capacity": 2,
+        "availability": 2,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "rixensart_parking",
+    "operator": "wibee",
+    "name": "Station Rixensart - Parking",
+    "lat": 50.711722,
+    "lon": 4.538583,
+    "address": "Parking communal",
+    "post_code": "1330",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "skoda_fabia",
+          "form_factor": "car",
+          "propulsion_type": "combustion",
+          "vehicle_accessories": [
+            "manual"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Skoda",
+          "model": "Fabia",
+          "max_range_meters": 500000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "ottignies_boisette",
+    "operator": "wibee",
+    "name": "Station Ottignies - Boisette",
+    "lat": 50.669167,
+    "lon": 4.55425,
+    "address": "Quartier Boisette",
+    "post_code": "1340",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "skoda_fabia",
+          "form_factor": "car",
+          "propulsion_type": "combustion",
+          "vehicle_accessories": [
+            "manual"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Skoda",
+          "model": "Fabia",
+          "max_range_meters": 500000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "mont_saint_guibert_vignes",
+    "operator": "wibee",
+    "name": "Station Mont Saint Guibert - Vignes",
+    "lat": 50.637417,
+    "lon": 4.607194,
+    "address": "Rue des Vignes",
+    "post_code": "1435",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "renault_clio",
+          "form_factor": "car",
+          "propulsion_type": "combustion",
+          "vehicle_accessories": [
+            "manual"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Renault",
+          "model": "Clio",
+          "max_range_meters": 500000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "ramillies_huppaye",
+    "operator": "wibee",
+    "name": "Station Ramillies - Huppaye",
+    "lat": 50.692806,
+    "lon": 4.891944,
+    "address": "Huppaye",
+    "post_code": "1367",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "ramillies_gare",
+    "operator": "wibee",
+    "name": "Station Ramillies - Gare",
+    "lat": 50.654306,
+    "lon": 4.895083,
+    "address": "Ancienne Gare",
+    "post_code": "1367",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "ramillies_administration",
+    "operator": "wibee",
+    "name": "Station Ramillies - Administration Communale",
+    "lat": 50.644417,
+    "lon": 4.872083,
+    "address": "Administration communale",
+    "post_code": "1367",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "andenne_reine_elisabeth",
+    "operator": "wibee",
+    "name": "Station Andenne - Avenue Reine Elisabeth",
+    "lat": 50.491361,
+    "lon": 5.096194,
+    "address": "Avenue Reine Elisabeth",
+    "post_code": "5300",
+    "capacity": 2,
+    "vehicles": [
+      {
+        "capacity": 2,
+        "availability": 2,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "marloie_gare",
+    "operator": "wibee",
+    "name": "Station Marloie - Gare de Marloie",
+    "lat": 50.202944,
+    "lon": 5.314861,
+    "address": "Gare de Marloie",
+    "post_code": "6900",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "marche_etang_zoe",
+    "operator": "wibee",
+    "name": "Station Marche - Étang (Zoé)",
+    "lat": 50.229778,
+    "lon": 5.34325,
+    "address": "Site de l'Étang",
+    "post_code": "6900",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "renault_zoe",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Renault",
+          "model": "ZOE",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "marche_etang_id3",
+    "operator": "wibee",
+    "name": "Station Marche - Étang (ID.3)",
+    "lat": 50.229778,
+    "lon": 5.34325,
+    "address": "Site de l'Étang",
+    "post_code": "6900",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "momignies_beauwelz",
+    "operator": "wibee",
+    "name": "Station Momignies - Rue de Beauwelz",
+    "lat": 50.026417,
+    "lon": 4.159667,
+    "address": "Rue de Beauwelz",
+    "post_code": "6590",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  },
+  {
+    "station_id": "seloignes_place",
+    "operator": "wibee",
+    "name": "Station Seloignes - 15 Place Seloignes",
+    "lat": 50.015694,
+    "lon": 4.255778,
+    "address": "15 Place de Seloignes",
+    "post_code": "6596",
+    "capacity": 1,
+    "vehicles": [
+      {
+        "capacity": 1,
+        "availability": 1,
+        "vehicleType": {
+          "vehicle_type_id": "volkswagen_id3",
+          "form_factor": "car",
+          "propulsion_type": "electric",
+          "vehicle_accessories": [
+            "automatic"
+          ],
+          "return_constraint": "roundtrip_station",
+          "make": "Volkswagen",
+          "model": "ID.3",
+          "max_range_meters": 400000,
+          "pricingPlan": {
+            "plan_id": "tarif_standard_wibee",
+            "currency": "EUR",
+            "description": "2,50 €/h (max 30 €/jour) et 0,32 €/km",
+            "hourly_rate": 2.5,
+            "daily_rate_max": 30.0,
+            "per_km_rate": 0.32
+          }
+        }
+      }
+    ]
+  }
+]
